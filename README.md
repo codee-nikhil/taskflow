@@ -206,4 +206,4 @@ The SQLite database persists in Railway's filesystem via the `DB_PATH` env var (
 
 ---
 
-Built with ⚡ by [Your Name]
+Built with ⚡ by Nikhil Tiwari
